@@ -7,19 +7,24 @@
 	path = causaloptim
 	url = https://github.com/sachsmc/causaloptim
 	shallow = true
+	registered = true
 [submodule "cosinor"]
 	path = cosinor
 	url = https://github.com/sachsmc/cosinor
 	shallow = true
+	registered = true
 [submodule "eventglm"]
 	path = eventglm
 	url = https://github.com/sachsmc/eventglm
 	shallow = true
+	registered = true
 [submodule "plotROC"]
 	path = plotROC
 	url = https://github.com/sachsmc/plotroc
 	shallow = true
+	registered = true
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/sachsmc/tufterhandout
 	shallow = true
+	registered = true
