@@ -1,0 +1,22 @@
+[
+  {
+    "package": "causaloptim",
+    "oncran": true
+  },
+  {
+    "package": "cosinor",
+    "oncran": true
+  },
+  {
+    "package": "eventglm",
+    "oncran": true
+  },
+  {
+    "package": "plotROC",
+    "oncran": true
+  },
+  {
+    "package": "tufterhandout",
+    "oncran": true
+  }
+]
