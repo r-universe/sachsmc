@@ -23,6 +23,16 @@
 	url = https://github.com/sachsmc/plotroc
 	shallow = true
 	registered = true
+[submodule "pseval"]
+	path = pseval
+	url = https://github.com/sachsmc/pseval
+	shallow = true
+	registered = true
+[submodule "testassay"]
+	path = testassay
+	url = https://github.com/sachsmc/testassay
+	shallow = true
+	registered = true
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/sachsmc/tufterhandout

@@ -16,6 +16,14 @@
     "oncran": true
   },
   {
+    "package": "pseval",
+    "oncran": true
+  },
+  {
+    "package": "testassay",
+    "oncran": true
+  },
+  {
     "package": "tufterhandout",
     "oncran": true
   }
