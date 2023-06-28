@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "causaloptim"]
 	path = causaloptim
 	url = https://github.com/sachsmc/causaloptim
-	shallow = true
-	registered = true
 [submodule "cosinor"]
 	path = cosinor
 	url = https://github.com/sachsmc/cosinor
-	shallow = true
-	registered = true
 [submodule "eventglm"]
 	path = eventglm
 	url = https://github.com/sachsmc/eventglm
-	shallow = true
-	registered = true
 [submodule "plotROC"]
 	path = plotROC
 	url = https://github.com/sachsmc/plotroc
-	shallow = true
-	registered = true
 [submodule "pseval"]
 	path = pseval
 	url = https://github.com/sachsmc/pseval
-	shallow = true
-	registered = true
 [submodule "testassay"]
 	path = testassay
 	url = https://github.com/sachsmc/testassay
-	shallow = true
-	registered = true
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/sachsmc/tufterhandout
-	shallow = true
-	registered = true
