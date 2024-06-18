@@ -1,25 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sachsmc/sachsmc.r-universe.dev
 	branch = HEAD
 [submodule "causaloptim"]
 	path = causaloptim
 	url = https://github.com/sachsmc/causaloptim
-[submodule "cosinor"]
-	path = cosinor
-	url = https://github.com/sachsmc/cosinor
+[submodule "drsurv"]
+	path = drsurv
+	url = https://github.com/sachsmc/drsurv
 [submodule "eventglm"]
 	path = eventglm
 	url = https://github.com/sachsmc/eventglm
 [submodule "plotROC"]
 	path = plotROC
-	url = https://github.com/sachsmc/plotroc
+	url = https://github.com/sachsmc/plotROC
 [submodule "pseval"]
 	path = pseval
 	url = https://github.com/sachsmc/pseval
+[submodule "stdReg2"]
+	path = stdReg2
+	url = https://github.com/sachsmc/stdReg2
 [submodule "testassay"]
 	path = testassay
 	url = https://github.com/sachsmc/testassay
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/sachsmc/tufterhandout
+[submodule "xactonomial"]
+	path = xactonomial
+	url = https://github.com/sachsmc/xactonomial
